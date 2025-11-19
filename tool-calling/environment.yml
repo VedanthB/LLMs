@@ -8,3 +8,5 @@ dependencies:
       - groq
       - python-dotenv
       - requests
+      - openai
+      - yfinance
