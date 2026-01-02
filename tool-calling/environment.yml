@@ -6,6 +6,7 @@ dependencies:
   - pip
   - pip:
       - groq
+      - fastmcp
       - python-dotenv
       - requests
       - openai
