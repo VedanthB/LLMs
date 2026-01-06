@@ -342,7 +342,7 @@ Use these for brainstorming, analyzing ideas, and strategic thinking.
 
 Use these for identifying automation opportunities and building AI workflows.
 
-#### OPT_COACH.md ⭐ (Customized)
+#### OPT_COACH.md
 **Use When:** Finding AI automation opportunities in your work
 **Output:** `masterplan` for task automation
 **Framework:** OPT (Operating model, Process, Task)
@@ -364,7 +364,7 @@ Use these for identifying automation opportunities and building AI workflows.
 
 ---
 
-#### OPT.md ⭐ (Customized)
+#### OPT.md
 **Use When:** Building a chatbot to automate a workflow
 **Output:** Chatbot masterplan (Python + Gradio)
 **Similar to OPT_COACH but focused on:**
@@ -462,7 +462,7 @@ Curated resources and references.
 #### AI_CONSULTANT.xml
 General AI consulting prompt (XML format).
 
-#### VIBE_PPT.md ⭐ (Customized)
+#### VIBE_PPT.md
 **Use When:** Converting content to reveal.js slide deck
 **Output:** Web-based presentation
 **Includes:**
@@ -556,19 +556,6 @@ As you use prompts, save good outputs in `examples/` folder for reference.
 
 ### 7. Mix and Match
 Don't feel constrained by exact prompt structure - take sections from multiple prompts to create your ideal workflow.
-
----
-
-## Customization Notes
-
-### Personalized Prompts (⭐)
-
-Three prompts have been customized for Vedanth Bora:
-- **OPT_COACH.md**: References AI Engineer role at Krazimo
-- **OPT.md**: Uses AI product examples (ReImagine Interior AI, Product Photoshoot AI)
-- **VIBE_PPT.md**: Generic branding placeholders
-
-After running `SELF_DISCOVERY.md`, you may want to further personalize other prompts with your specific context, tech stack, and goals.
 
 ---
 

@@ -15,7 +15,7 @@ Give two short, concrete examples (2–3 sentences each):
 
 Instructor example: describe an instructor’s operating model, a sample process, and one task that could be automated.
 
-AI Product Builder example: describe an AI Engineer building AI products (like ReImagine Interior AI or Product Photoshoot AI), their operating model (shipping AI features to users), a sample process (gathering user feedback, iterating on AI models), and one task that could be automated (automatically collecting and categorizing user feedback from multiple sources).
+AI Product Builder example: describe an AI Engineer building AI products, their operating model (shipping AI features to users), a sample process (gathering user feedback, iterating on AI models), and one task that could be automated (automatically collecting and categorizing user feedback from multiple sources).
 
 Discovery sequence:
 
